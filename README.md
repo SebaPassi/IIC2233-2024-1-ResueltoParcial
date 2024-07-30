@@ -5,3 +5,10 @@ En este repositorio encontrarás mis entregas para las __tareas__ de programaci�
 En caso de que sea necesario puedes utilizar código de estos archivos o basarte en estos para la resolución de tus tareas. Sin embargo, es muy importante que cites correctamente en caso de hacerlo, incluso si simplemente sacas "ideas" de este repositorio. Como dicen por ahí, mejor prevenir que lamentar...
 
 Para terminar, espero que este repositorio te ayude. No dudes en escribirme a mi correo o publicar una __issue__ para cualquier duda que tengas. ¡Mucho éxito en el ramo!
+
+| Tarea | Nota   |
+|-------|--------|
+| Tarea 1 | 7.0  |
+| Tarea 2 | 7.0  |
+| Tarea 3 | 6.82  |
+| Tarea 4 | 6.8  |
