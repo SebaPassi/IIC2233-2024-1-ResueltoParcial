@@ -1,0 +1,59 @@
+# Archivo para almacenar los parámetros necesarios
+
+# IMPORTS
+import os
+
+# PARÁMETROS UTILIZADOS
+
+CANSANCIO = 0.15
+
+PROB_CAB = 0.4
+RED_CAB = 0.3
+ATQ_CAB = 0.9
+
+PROB_MAG = 0.6
+RED_MAG = 0.3
+ATQ_MAG = 0.9
+
+PROB_PAL = 0.5
+AUM_PAL = 0.3
+
+PROB_MDB = 0.5
+DEF_MDB = 0.15
+
+PROB_CAR = 0.4
+UNO_MENOS_PROB_CAR = 0.6
+AUM_CAR = 0.3
+
+ORO_INICIAL = 50
+ORO_GANADO = 25
+
+PRECIO_MAG = 10
+PRECIO_GUE = 10
+PRECIO_CAB = 10
+PRECIO_ARMADURA = 5
+PRECIO_PERGAMINO = 5
+PRECIO_LANZA = 5
+PRECIO_CURA = 7
+
+CURAR_VIDA = 50
+
+VIDA_MAX = 100
+VIDA_MIN = 0
+PODER_MAX = 10
+PODER_MIN = 1
+DEFEN_MAX = 20
+DEFEN_MIN = 1
+AGIL_MAX = 10
+AGIL_MIN = 1
+RESIS_MAX = 10
+RESIS_MIN = 1
+
+DANO_MIN = 1
+
+# PATHS UTILIZADOS
+RUTA_FACIL = os.path.join("data", "facil.txt")
+RUTA_INTERMEDIO = os.path.join("data", "intermedio.txt")
+RUTA_DIFICIL = os.path.join("data", "dificil.txt")
+
+RUTA_UNIDADES = os.path.join("data", "unidades.txt")
