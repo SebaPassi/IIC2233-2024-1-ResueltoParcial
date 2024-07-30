@@ -10,5 +10,5 @@ Para terminar, espero que este repositorio te ayude. No dudes en escribirme a mi
 |-------|--------|
 | Tarea 1 | 7.0  |
 | Tarea 2 | 7.0  |
-| Tarea 3 | 6.82  |
+| Tarea 3 | 6.82 |
 | Tarea 4 | 6.8  |
